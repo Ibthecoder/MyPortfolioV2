@@ -10,7 +10,6 @@ import {
   gitlogo,
   githublogo,
   mysqllogo,
-  AzurelodgeProject,
   oladipupoibrahimv1,
   jeedProject,
   goharabbasproject,
@@ -114,7 +113,7 @@ export const myProjectList = [
     skillsForTheProject: "HTML,CSS,JAVASCRIPT",
     whatTheProjectSolve:
       "Azure Lodge is a user-friendly platform that simplifies lodging by providing clear details, quality images, and a seamless booking experience for travelers",
-    image: AzurelodgeProject,
+    image: "https://res.cloudinary.com/ddd6uszk3/image/upload/v1759561604/Azure-lodge-project_o9fvrs.png",
     projectGithub: "https://github.com/Ibthecoder/Hotel-project",
   },
 
