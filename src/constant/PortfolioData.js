@@ -103,7 +103,7 @@ export const myProjectList = [
     skillsForTheProject: "TailWindcss,React",
     whatTheProjectSolve:
       "A responsive website built for a Dubai-based technical services company offering AC installation, painting, electrical work, and more for residential and commercial spaces",
-    image: goharabbasproject,
+    image: "https://res.cloudinary.com/ddd6uszk3/image/upload/v1759562012/goharabbasproject_dqermj.png",
     projectGithub: "https://github.com/Ibthecoder/Hotel-project",
   },
 
