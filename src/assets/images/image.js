@@ -10,7 +10,6 @@ import gitlogo from "./git-logo.svg";
 import githublogo from "./github-logo.svg";
 import mysqllogo from "./mysql.svg";
 import oladipupoibrahimv1 from "./porfolio-v1.png";
-import jeedProject from "./jeed-project.png";
 
 export {
   htmllogo,
@@ -25,5 +24,4 @@ export {
   githublogo,
   mysqllogo,
   oladipupoibrahimv1,
-  jeedProject,
 };

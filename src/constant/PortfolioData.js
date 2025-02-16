@@ -11,8 +11,6 @@ import {
   githublogo,
   mysqllogo,
   oladipupoibrahimv1,
-  jeedProject,
-  goharabbasproject,
 } from "../assets/images/image";
 
 export const MenuItems = [
@@ -103,7 +101,8 @@ export const myProjectList = [
     skillsForTheProject: "TailWindcss,React",
     whatTheProjectSolve:
       "A responsive website built for a Dubai-based technical services company offering AC installation, painting, electrical work, and more for residential and commercial spaces",
-    image: "https://res.cloudinary.com/ddd6uszk3/image/upload/v1759562012/goharabbasproject_dqermj.png",
+    image:
+      "https://res.cloudinary.com/ddd6uszk3/image/upload/v1759562012/goharabbasproject_dqermj.png",
     projectGithub: "https://github.com/Ibthecoder/Hotel-project",
   },
 
@@ -113,7 +112,8 @@ export const myProjectList = [
     skillsForTheProject: "HTML,CSS,JAVASCRIPT",
     whatTheProjectSolve:
       "Azure Lodge is a user-friendly platform that simplifies lodging by providing clear details, quality images, and a seamless booking experience for travelers",
-    image: "https://res.cloudinary.com/ddd6uszk3/image/upload/v1759561604/Azure-lodge-project_o9fvrs.png",
+    image:
+      "https://res.cloudinary.com/ddd6uszk3/image/upload/v1759561604/Azure-lodge-project_o9fvrs.png",
     projectGithub: "https://github.com/Ibthecoder/Hotel-project",
   },
 
@@ -123,7 +123,8 @@ export const myProjectList = [
     skillsForTheProject: "TailWindcss,React",
     whatTheProjectSolve:
       "A Responsive website built for a client to bring their vision to life a consulting firm specializing in fleet and real estate management.",
-    image: jeedProject,
+    image:
+      "https://res.cloudinary.com/ddd6uszk3/image/upload/v1759562661/jeed-project_oqfqi0.png",
   },
 
   {
