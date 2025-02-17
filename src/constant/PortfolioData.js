@@ -10,7 +10,6 @@ import {
   gitlogo,
   githublogo,
   mysqllogo,
-  oladipupoibrahimv1,
 } from "../assets/images/image";
 
 export const MenuItems = [
@@ -131,6 +130,6 @@ export const myProjectList = [
     projectName: "oladipupo ibrahim V1",
     projectLink: "https://oladipupoibrahim.vercel.app/",
     skillsForTheProject: "HTML,CSS,JAVASCRIPT",
-    image: oladipupoibrahimv1,
+    image: "https://res.cloudinary.com/ddd6uszk3/image/upload/v1759562994/porfolio-v1_t1kpgr.png",
   },
 ];

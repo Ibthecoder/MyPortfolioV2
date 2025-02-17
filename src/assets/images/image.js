@@ -9,7 +9,6 @@ import jslogo from "./javascript.svg";
 import gitlogo from "./git-logo.svg";
 import githublogo from "./github-logo.svg";
 import mysqllogo from "./mysql.svg";
-import oladipupoibrahimv1 from "./porfolio-v1.png";
 
 export {
   htmllogo,
@@ -23,5 +22,4 @@ export {
   gitlogo,
   githublogo,
   mysqllogo,
-  oladipupoibrahimv1,
 };
