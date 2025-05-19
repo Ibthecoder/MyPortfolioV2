@@ -12,6 +12,7 @@ import {
   mysqllogo,
   AzurelodgeProject,
   oladipupoibrahimv1,
+  jeedProject,
 } from "../assets/images/image";
 
 export const MenuItems = [
@@ -104,6 +105,15 @@ export const myProjectList = [
       "Azure Lodge is a user-friendly platform that simplifies lodging by providing clear details, quality images, and a seamless booking experience for travelers",
     image: AzurelodgeProject,
     projectGithub: "https://github.com/Ibthecoder/Hotel-project",
+  },
+
+  {
+    projectName: "Jeed Logistics",
+    projectLink: "https://www.jeed-logistics.com/",
+    skillsForTheProject: "TailWindcss,React",
+    whatTheProjectSolve:
+      "A Responsive website built for a client to bring their vision to life a consulting firm specializing in fleet and real estate management.",
+    image: jeedProject,
   },
 
   {

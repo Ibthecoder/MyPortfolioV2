@@ -12,6 +12,7 @@ import githublogo from "./github-logo.svg";
 import mysqllogo from "./mysql.svg";
 import AzurelodgeProject from "./Azure-lodge-project.png";
 import oladipupoibrahimv1 from "./porfolio-v1.png";
+import jeedProject from "./jeed-project.png";
 
 export {
   portfolioHeroImg,
@@ -28,4 +29,5 @@ export {
   mysqllogo,
   AzurelodgeProject,
   oladipupoibrahimv1,
+  jeedProject,
 };
