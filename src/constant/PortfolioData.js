@@ -13,6 +13,7 @@ import {
   AzurelodgeProject,
   oladipupoibrahimv1,
   jeedProject,
+  goharabbasproject,
 } from "../assets/images/image";
 
 export const MenuItems = [
@@ -97,6 +98,16 @@ export const SkillsItems = [
 ];
 
 export const myProjectList = [
+  {
+    projectName: " Gohar Abbas Technical Services Company ",
+    projectLink: "https://gohartechservices.com/",
+    skillsForTheProject: "TailWindcss,React",
+    whatTheProjectSolve:
+      "A responsive website built for a Dubai-based technical services company offering AC installation, painting, electrical work, and more for residential and commercial spaces",
+    image: goharabbasproject,
+    projectGithub: "https://github.com/Ibthecoder/Hotel-project",
+  },
+
   {
     projectName: "Azure Lodge",
     projectLink: "https://azure-lodge.vercel.app/",

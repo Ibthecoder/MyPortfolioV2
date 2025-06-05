@@ -13,6 +13,7 @@ import mysqllogo from "./mysql.svg";
 import AzurelodgeProject from "./Azure-lodge-project.png";
 import oladipupoibrahimv1 from "./porfolio-v1.png";
 import jeedProject from "./jeed-project.png";
+import goharabbasproject from "./goharabbasproject.png";
 
 export {
   portfolioHeroImg,
@@ -30,4 +31,5 @@ export {
   AzurelodgeProject,
   oladipupoibrahimv1,
   jeedProject,
+  goharabbasproject,
 };
