@@ -1,4 +1,4 @@
-import { portfolioHeroImg } from "../assets/images/image";
+
 import ScanMeBtn from "@Component/ScanMeBtn";
 import BlurText from "@Component/BlurText";
 
@@ -6,6 +6,7 @@ const Home = () => {
   const handleAnimationComplete = () => {
     console.log("Animation completed");
   };
+
   return (
     <>
       <section className="pt-10 overflow-hidden bg-gray-50 md:pt-0 sm:pt-16 2xl:pt-16  max-sm:mt-10">
@@ -44,7 +45,7 @@ const Home = () => {
             <div className="relative">
               <img
                 className="relative w-full xl:max-w-lg xl:mx-auto 2xl:origin-bottom 2xl:scale-110 rounded max-sm:mt-6"
-                src={portfolioHeroImg}
+                src="https://res.cloudinary.com/ddd6uszk3/image/upload/v1759561112/portfolio-img1_pcwyx7.jpg"
                 alt=""
               />
             </div>

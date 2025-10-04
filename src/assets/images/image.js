@@ -1,4 +1,3 @@
-import portfolioHeroImg from "./portfolio-img1.jpg";
 import htmllogo from "./html-logo.svg";
 import bootstraplogo from "./bootstrap.svg";
 import tailwindcsslogo from "./tailwindcss.svg";
@@ -16,7 +15,6 @@ import jeedProject from "./jeed-project.png";
 import goharabbasproject from "./goharabbasproject.png";
 
 export {
-  portfolioHeroImg,
   htmllogo,
   bootstraplogo,
   tailwindcsslogo,
