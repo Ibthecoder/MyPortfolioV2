@@ -35,7 +35,7 @@ const Project = () => {
                     rel="noopener noreferrer"
                     className="mt-4 inline-block font-semibold  font-[Pochaevsk] hover:underline cursor-pointer max-sm:mb-10"
                   >
-                    View GitHub Repo
+                    View GitHub Repo(Private)
                   </a>
                 </div>
               </div>

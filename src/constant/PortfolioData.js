@@ -95,6 +95,17 @@ export const SkillsItems = [
 
 export const myProjectList = [
   {
+    projectName:
+      "Bealine Group - Nigerian Architectural Firm, Smart Home Builder & Real Estate",
+    projectLink: "https://www.bealines.com/",
+    skillsForTheProject: "TailWindcss,Nextjs,Sanity,Clerk",
+    whatTheProjectSolve:
+      "A responsive WebApp built for a Bealines is a multidisciplinary company based in Nigeria, offering innovative solutions in real estate, construction, architectural design, smart energy, and concrete production.",
+    image:
+      "https://res.cloudinary.com/ddd6uszk3/image/upload/v1769893979/Screenshot_2026-01-31_221107_nhzblj.png",
+    projectGithub: "https://github.com/Ibthecoder/Hotel-project",
+  },
+  {
     projectName: " Gohar Abbas Technical Services Company ",
     projectLink: "https://gohartechservices.com/",
     skillsForTheProject: "TailWindcss,React",
@@ -130,6 +141,7 @@ export const myProjectList = [
     projectName: "oladipupo ibrahim V1",
     projectLink: "https://oladipupoibrahim.vercel.app/",
     skillsForTheProject: "HTML,CSS,JAVASCRIPT",
-    image: "https://res.cloudinary.com/ddd6uszk3/image/upload/v1759562994/porfolio-v1_t1kpgr.png",
+    image:
+      "https://res.cloudinary.com/ddd6uszk3/image/upload/v1759562994/porfolio-v1_t1kpgr.png",
   },
 ];
