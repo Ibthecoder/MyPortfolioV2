@@ -105,6 +105,18 @@ export const myProjectList = [
       "https://res.cloudinary.com/ddd6uszk3/image/upload/v1769893979/Screenshot_2026-01-31_221107_nhzblj.png",
     projectGithub: "https://github.com/Ibthecoder/Hotel-project",
   },
+
+  {
+    projectName:
+      "FarmBridge Commodities",
+    projectLink: "https://farmbridgecommodities.com/",
+    skillsForTheProject: "TailWindcss,React,emailjs",
+    whatTheProjectSolve:
+      "A responsive WebApp built for FarmBridge Commodities, a dynamic Alberta-based enterprise established in 2025, specializing in global agro-commodity trading, international logistics, and sustainable supply chain solutions for retailers and processors.",
+    image:
+      "https://res.cloudinary.com/ddd6uszk3/image/upload/v1773753372/Screenshot_2026-03-17_at_2.14.44_PM_zbpy38.png",
+    projectGithub: "https://github.com/Ibthecoder/-FarmBridge",
+  },
   {
     projectName: " Gohar Abbas Technical Services Company ",
     projectLink: "https://gohartechservices.com/",
