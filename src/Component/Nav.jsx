@@ -11,7 +11,7 @@ const Nav = () => {
   };
 
   // Close menu when clicking outside
-  useEffect(() => {
+useEffect(() => {
     const handleClickOutside = (event) => {
       if (menuRef.current && !menuRef.current.contains(event.target)) {
         setIsMobileMenuOpen(false);

@@ -118,7 +118,7 @@ export const myProjectList = [
     projectGithub: "https://github.com/Ibthecoder/-FarmBridge",
   },
   {
-    projectName: " Gohar Abbas Technical Services Company ",
+    projectName: " Gohar Abbas Technical Services Company  / Domain Expired",
     projectLink: "https://gohartechservices.com/",
     skillsForTheProject: "TailWindcss,React",
     whatTheProjectSolve:
@@ -140,7 +140,7 @@ export const myProjectList = [
   },
 
   {
-    projectName: "Jeed Logistics",
+    projectName: "Jeed Logistics / Domain Expired",
     projectLink: "https://www.jeed-logistics.com/",
     skillsForTheProject: "TailWindcss,React",
     whatTheProjectSolve:
@@ -151,7 +151,7 @@ export const myProjectList = [
 
   {
     projectName: "oladipupo ibrahim V1",
-    projectLink: "https://oladipupoibrahim.vercel.app/",
+    projectLink: "https://oladipupoibrahimv1.netlify.app/",
     skillsForTheProject: "HTML,CSS,JAVASCRIPT",
     image:
       "https://res.cloudinary.com/ddd6uszk3/image/upload/v1759562994/porfolio-v1_t1kpgr.png",
