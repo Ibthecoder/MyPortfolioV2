@@ -107,8 +107,7 @@ export const myProjectList = [
   },
 
   {
-    projectName:
-      "FarmBridge Commodities",
+    projectName: "FarmBridge Commodities",
     projectLink: "https://farmbridgecommodities.com/",
     skillsForTheProject: "TailWindcss,React,emailjs",
     whatTheProjectSolve:
@@ -130,7 +129,7 @@ export const myProjectList = [
 
   {
     projectName: "Azure Lodge",
-    projectLink: "https://azure-lodge.vercel.app/",
+    projectLink: "https://azure-lodge.netlify.app/",
     skillsForTheProject: "HTML,CSS,JAVASCRIPT",
     whatTheProjectSolve:
       "Azure Lodge is a user-friendly platform that simplifies lodging by providing clear details, quality images, and a seamless booking experience for travelers",
